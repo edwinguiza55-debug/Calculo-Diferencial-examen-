@@ -1,5 +1,3 @@
 # Calculo-Diferencial-examen-
-![WhatsApp Image 2025-12-18 at 2 28 43 PM](https://github.com/user-attachments/assets/0e19904c-979e-496c-b215-72929bc68b06)
-![WhatsApp Image 2025-12-18 at 2 28 42 PM](https://github.com/user-attachments/assets/e65806c2-a711-451a-bd32-7567fc110d8c)
-
-
+![Calculo 1](https://github.com/user-attachments/assets/539338c0-a81c-4755-97c2-7810dfa6e6de)
+![Calculo 2](https://github.com/user-attachments/assets/a77d601a-9f14-4f31-8464-46bc2177e0bd)
